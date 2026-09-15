@@ -24,8 +24,9 @@ sudo apt install \
     grim slurp wl-clipboard wlrctl \
     network-manager \
     lightdm lightdm-gtk-greeter
+```
 
-ru
+Русский
 # NeDE — Efficient Desktop Environment
 
 Легковесная модульная DE для Linux на базе **Wayland**.
@@ -53,5 +54,7 @@ sudo apt install \
     network-manager \
     lightdm lightdm-gtk-greeter
 
+```
+!!!
  * Потребление ОЗУ NeDE может быть разной или неточной. Это зависит от вашей ОЗУ, например на 16 ГБ у вас потребление может быть 700 мб - это нормально для Linux.
  ** RAM usage of NeDE may vary or be inaccurate. It depends on your total RAM—for example, with 16 GB installed, memory usage might reach around 700 MB, which is normal for Linux.

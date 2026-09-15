@@ -1,0 +1,22 @@
+# Build artifacts
+panel/nedepanel
+desktop/nedesktop
+nedeshot/nedess
+nedeuac/nedeuac
+launcher/nedelauncher
+
+# Distributions
+dist/
+*.tar.gz
+*.deb
+
+# Editor
+*~
+*.swp
+.vscode/
+.idea/
+*.bak
+
+# System
+.DS_Store
+Thumbs.db

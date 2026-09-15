@@ -1,0 +1,15 @@
+# NeDE autostart
+
+# Обои
+swaybg -i /usr/share/images/desktop-base/default -m fill &
+
+# Панель
+nedepanel &
+
+# NeDE UAC (Polkit агент)
+pkill -9 nedeuac 2>/dev/null
+sleep 1
+nohup /usr/local/bin/nedeuac >/dev/null 2>&1 &
+
+# Рабочий стол
+nedesktop &

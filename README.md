@@ -1,5 +1,5 @@
  <img width="1366" height="768" alt="screenshot_2026-04-14_01-07-34" src="https://github.com/user-attachments/assets/3654b3d6-0c99-44d4-96af-435675c163e8" />
-# NeDE — Efficient Desktop Environment
+# NeDE — Nede Efficient Desktop Environment
 
 Lightweight modular DE for Linux based on **Wayland**.
 
@@ -27,7 +27,7 @@ sudo apt install \
 ```
 
 Русский
-# NeDE — Efficient Desktop Environment
+# NeDE — Nede Efficient Desktop Environment
 
 Легковесная модульная DE для Linux на базе **Wayland**.
 

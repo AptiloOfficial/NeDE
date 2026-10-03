@@ -12,7 +12,7 @@ Lightweight modular DE for Linux based on **Wayland**.
 | **NeDE Desktop** | Desktop | C + GTK3 | ~20 MB |
 | **NeDE ScreenShot** | Screenshot tool | C + GTK3 | ~15 MB |
 | **NeDE UAC** | Polkit agent | C + GTK3 + Polkit | ~25 MB |
-| **LabWC** | Compositor Wayland | wlroots | ~80 MB |
+| **NeCompositor** | Compositor Wayland | labwc + wlroots | ~80 MB |
 **Total:** ~200 MB RAM for the entire DE. **
 
 ## Dependencies
@@ -40,7 +40,7 @@ sudo apt install \
 | **NeDE Desktop** | Рабочий стол | C + GTK3 | ~20 MB |
 | **NeDE ScreenShot** | Скриншотер | C + GTK3 | ~15 MB |
 | **NeDE UAC** | Polkit-агент | C + GTK3 + Polkit | ~25 MB |
-| **LabWC** | Композитор Wayland | wlroots | ~80 MB |
+| **NeCompositor** | Композитор Wayland | labwc + wlroots | ~80 MB |
 
 **Итого:** ~200 MB RAM для всей DE! *
 

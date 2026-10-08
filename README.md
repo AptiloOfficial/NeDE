@@ -2,7 +2,7 @@
 
 # NeDE - Nede Efficient Desktop Enviroment 
 
-NeDE - Light DM for Linux/Unix systems in **Wayland"
+NeDE - Light DM for Linux/Unix systems in **Wayland**
 
 **What is NeDE?**
 
